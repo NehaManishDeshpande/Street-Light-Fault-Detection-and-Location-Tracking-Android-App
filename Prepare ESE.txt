@@ -1,0 +1,48 @@
+==============================================SENSOR============================================
+
+The NEO-6M GPS module is a compact and cost-effective GPS (Global Positioning System) receiver module manufactured by u-blox.
+- The NEO-6M module is a complete GPS receiver that receives signals from GPS satellites to determine its precise location coordinates (latitude and longitude), altitude, speed, and time.
+- The NEO-6M module communicates with external microcontrollers or devices via a UART (Universal Asynchronous Receiver-Transmitter) serial interface. It typically operates at standard baud rates such as 9600 or 115200 bps.
+
+
+LDR (Light Dependent Resistor)
+Specification: Detects light intensity with resistance varying inversely with the amount of light.
+Feature: Simple and cost-effective light sensing component.
+Use: Commonly used in automatic lighting systems to detect daylight.
+Sensitivity: Typically responsive to visible light spectrum.
+Resistance Range: Varies from a few hundred ohms (in light) to several megaohms (in darkness).
+
+
+Arduino
+Specification: Open-source microcontroller platform based on easy-to-use hardware and software.
+Feature: Supports various digital and analog I/O pins for connecting different sensors and actuators.
+Use: Acts as the central processing unit for collecting data from sensors and controlling actuators.
+Programming: Coded using Arduino IDE with a simplified version of C++.
+Models: Available in different models (e.g., Uno, Mega) with varying capabilities.
+
+
+
+ZMPT Voltage Sensor
+Specification: Measures AC voltage up to 250V with high accuracy.
+Feature: Includes a high-precision voltage transformer and signal conditioning circuitry.
+Use: Ideal for monitoring and measuring AC mains voltage in real-time.
+Accuracy: Provides a stable and accurate voltage measurement, suitable for fault detection.
+Output: Analog signal proportional to the measured voltage for easy interfacing with microcontrollers.
+
+
+SCT Current Sensor (e.g., SCT-013)
+Specification: Non-invasive AC current sensor with a typical measurement range of 0-100A.
+Feature: Clip-on design allows easy installation without disrupting the circuit.
+Use: Measures the current passing through a conductor for load monitoring and fault detection.
+Output: Provides an analog output signal proportional to the current flow.
+Safety: Isolated measurement ensures safety when monitoring high voltage lines
+
+
+
+
+
+
+
+
+
+

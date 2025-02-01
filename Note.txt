@@ -1,0 +1,19 @@
+so maam 
+Currently, around 30% to 40% of street lights in urban areas and 60% street lights in rural areas suffer from street light faults or breakdown, leading to major interruptions in service and safety risks.
+
+and around 35 million street lights are there in india and due its ineffective fault management, it contributes to annual loss of billions of rupees due to its unnecessary energy consumption and its maintenance costs also.
+
+so our problem statement addresses this issue, by developing an innovative fault detection and tracking of street lights, So, for the proposed solution we are using advanced technologies such as IoT sensors, gps and cloud computing. and due to the inclusion of this technologies , it facilitates quick and targeted responses to maintenance issues, minimizing downtime, and maximizing the operational efficiency of street lighting infrastructure.
+
+Ultimately, after successful implementation of the project, it will not only enhance the operational efficiency of street lighting systems but also contribute to a safer, more sustainable environment and also it creates a sense of security, encouraging more people to use public spaces at night which enhances the civic engagement
+
+
+now talking about the objectives that we are gonna acheive 
+so the first one is sending precise location, so we are using gps technology here, where Arduino GSM module receives GPS coordinates from satellites and that data is transmitted via GSM network to cloud servers and those cloud servers process data for real-time location tracking. so gps determine the receiver's exact position on Earth by triangulating signals from multiple satellites. which helps in finding the precise location of the street light
+
+next is provides safety, according to cencus report of 2021 maam around 1.5 lakh deaths accored due to road accidents, and street light faults are one of the major factors affecting it, so by improving street lights fault, it can be reduced to 30 % in nightime accidents. so it would provide safety primarily in areas where people wont report much like the highways or desolated areas. and not only this but with poorly lit areas becomes more prone to criminal activities. Strengthening fault detection can contribute to a potential reduction in crime rates also.
+
+and the third one is reduced energy consumption, so by addressing faults in the street light, the initiative could potentially save millions of kilowatt-hours annually, leading to reduction in overall operational costs and would also benefit in environment and sustainability. and also improving fault management in street lighting systems aligns with India's broader sustainability goals, such as the National Clean Air Program and the Smart Cities Mission as well.
+
+so to explain the remaining objectives i would like to call isha
+

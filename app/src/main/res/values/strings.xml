@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Street Light Fault Detection and Location Tracking</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

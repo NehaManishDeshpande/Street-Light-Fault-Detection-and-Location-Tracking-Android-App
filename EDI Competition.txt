@@ -1,0 +1,12 @@
+Hello Maam/Sir,
+so this is the android application for our street light fault detection and location tracking
+
+as apps are on handheld devices, it gets really easy for municipal maintenance workers or technicians to track and locate the street lights
+
+The user first needs to do the registration and then its login,
+and for login purpose we need to just enter the name, and password 
+and then we will land on our main activity wherein we get two option i.e. maps and graph
+
+now let's check map so here maam firstly we have used google maps for geolocation services, wherein we used there dynamic maps api, and also we took two markers two display the bulbs exact location, this app integrates Firebase for real-time data synchronization due to which after clicking on each bulb we get its status and also its power value, 
+
+now let's check the graphs now here we have integrated the  ThingSpeak for data visualization, so it displays the dynamic charts from ThingSpeak
